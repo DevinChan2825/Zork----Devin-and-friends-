@@ -9,7 +9,7 @@ package com.bayviewglen.zork;
  *
  * This class is part of the "Zork" game.
  */
-// text more
+
 class CommandWords
 {
     // a constant array that holds all valid command words
